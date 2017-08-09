@@ -1,1 +1,2 @@
-conflict test: master
+conflict test: feature_1
+conflict fix: master
