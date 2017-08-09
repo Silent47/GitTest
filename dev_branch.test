@@ -1,2 +1,4 @@
 conflict test: feature_1
 conflict fix: master
+
+edit: on branch dev
